@@ -1,9 +1,16 @@
+import java.util.Scanner;
 
 public class TiposVariaveis {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Olá, turma caralho, eu fui executado pela porra do terminal.");
+		
+		
+		
+		sc.close();
+		
 	}
 
 }
